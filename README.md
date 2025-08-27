@@ -45,7 +45,7 @@ Supports performance evaluation and recognition.
 
 🛠️ Tools & Technologies
 
-Data Visualization: Tableau / Power BI (depending on actual tool used)
+Data Visualization: Tableau 
 
 Data Source: Company sales & shipment data
 
